@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udita325&style=flat-square&color=brightgreen" alt="Profile Views" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=udita325.profile.visitor" alt="Profile Views" /> 
 </p>
 
 
