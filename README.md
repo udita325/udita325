@@ -1,4 +1,4 @@
-## Hi there 👋
+##Hi, Everyone!!
 <!-- Elegant + Techy GitHub Profile for Udita Mitra -->
 
 <h1 align="center">✨ Hola, I'm <a href="https://github.com/udita325" target="_blank">Udita Mitra</a> 👋</h1>
