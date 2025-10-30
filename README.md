@@ -1,4 +1,61 @@
 ## Hi there 👋
+<!-- Elegant + Techy GitHub Profile for Udita Mitra -->
+
+<h1 align="center">✨ Hey there, I'm <a href="https://github.com/udita325" target="_blank">Udita Mitra</a> 👋</h1>
+<h3 align="center">💻 Tech Explorer | Web Developer | AI & Automation Enthusiast</h3>
+
+---
+
+### 🌸 About Me  
+- 🎓 Engineering student passionate about **technology, coding, and creativity**  
+- 🌱 Currently mastering **React, MERN stack & advanced JavaScript**  
+- 💡 Love building **interactive web apps** and experimenting with **automation + AI**  
+- 💬 Ask me about **Java, Web Development, and UI Design**  
+- 📫 Reach me at **uditamitra@gmail.com**  
+- ⚡ Fun fact: I debug with music 🎧 and caffeine ☕  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,git,github,mysql,vscode,figma" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udita325&show_icons=true&theme=tokyonight&hide_border=true" alt="Udita's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udita325&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udita325&theme=onestar&margin-w=10&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/udita-mitra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:uditamitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/udita325"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🪶 Quote to Code By  
+> *“The best way to predict the future is to create it.” — Alan Kay*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udita325&style=flat-square&color=brightgreen" alt="Profile Views" /> 
+</p>
+
 
 <!--
 **udita325/udita325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
