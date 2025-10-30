@@ -31,10 +31,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udita325&theme=onestar&margin-w=10&no-frame=true" alt="Trophies" />
-</p>
 
 ---
 
