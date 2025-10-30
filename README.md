@@ -1,8 +1,8 @@
 ## Hi there 👋
 <!-- Elegant + Techy GitHub Profile for Udita Mitra -->
 
-<h1 align="center">✨ Hey there, I'm <a href="https://github.com/udita325" target="_blank">Udita Mitra</a> 👋</h1>
-<h3 align="center">💻 Tech Explorer | Web Developer | AI & Automation Enthusiast</h3>
+<h1 align="center">✨ Hola, I'm <a href="https://github.com/udita325" target="_blank">Udita Mitra</a> 👋</h1>
+<h3 align="center">💻 Tech Explorer | Web Developer | Aspiring MERN Stack Developer</h3>
 
 ---
 
