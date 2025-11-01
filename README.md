@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udita325&show_icons=true&theme=tokyonight&hide_border=true" alt="Udita's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udita325&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
----
-
 ### 📫 Connect With Me  
 <p align="center">
   <a href="www.linkedin.com/in/udita-mitra-841349352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
